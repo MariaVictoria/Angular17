@@ -1,0 +1,12 @@
+.container
+{
+  display: grid;
+  justify-items: center ;
+  justify-content: center;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+
+}
